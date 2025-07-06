@@ -1,0 +1,36 @@
+.elementor-kit-6{--e-global-color-primary:#000000;--e-global-color-secondary:#FDEDDF;--e-global-color-text:#4C4C4C;--e-global-color-accent:#00BE09;--e-global-typography-primary-font-family:"SF Pro Text";--e-global-typography-primary-font-size:1rem;--e-global-typography-primary-font-weight:900;--e-global-typography-secondary-font-family:"SF Pro Text";--e-global-typography-secondary-font-size:1rem;--e-global-typography-secondary-font-weight:600;--e-global-typography-text-font-family:"SF Pro Text";--e-global-typography-text-font-size:1rem;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"SF Pro Text";--e-global-typography-accent-font-size:1rem;--e-global-typography-accent-font-weight:600;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){--kit-widget-spacing:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'SF Pro Text';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://planningdome.com/wp-content/uploads/2025/03/SF-Pro-Text-Black.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro Text';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://planningdome.com/wp-content/uploads/2025/03/SF-Pro-Text-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro Text';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://planningdome.com/wp-content/uploads/2025/03/SF-Pro-Text-Light.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro Text';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://planningdome.com/wp-content/uploads/2025/03/SF-Pro-Text-Semibold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'SF Pro Text';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://planningdome.com/wp-content/uploads/2025/03/SF-Pro-Text-Bold.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
